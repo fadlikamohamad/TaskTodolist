@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboard"
+        android:icon="@drawable/ic_baseline_dashboard_24"
+        android:title="Dashboard"></item>
+
+    <item
+        android:id="@+id/new_task"
+        android:title="New Task"
+        android:icon="@drawable/ic_baseline_playlist_add_24"></item>
+
+    <item
+        android:id="@+id/edit_task"
+        android:title="Edit Task"
+        android:icon="@drawable/ic_baseline_edit_24"></item>
+</menu>
